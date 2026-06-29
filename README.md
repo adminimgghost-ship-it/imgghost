@@ -34,3 +34,12 @@ https://imgghost.com
 - Facebook: https://facebook.com/ImgGhostOfficial
 - Pinterest: https://pinterest.com/ImgGhostOfficial
 - LinkedIn: https://linkedin.com/company/imgghost
+## Use Cases
+
+- Share private screenshots securely
+- Send temporary image links
+- Password protect sensitive images
+- Share images with view limits
+- Auto-delete images after viewing
+- Temporary image hosting for support teams
+- Secure image sharing for businesses
